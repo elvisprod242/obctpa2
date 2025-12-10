@@ -5,8 +5,8 @@ import { Toaster } from "@/components/ui/toaster";
 import { ThemeProvider } from '@/components/theme-provider';
 
 export const metadata: Metadata = {
-  title: 'AuthZenith',
-  description: 'Authentification et tableau de bord sécurisés',
+  title: 'Obc TPA',
+  description: 'Application de la gestion OBC TPA',
 };
 
 export default function RootLayout({
